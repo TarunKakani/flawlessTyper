@@ -4,12 +4,12 @@ A auto typer made in python.
 ## 💻 Installation
 
 ### Windows
-1.  Go to the <a href=https://github.com/TarunKakani/flawlessTyper/releases/">Releases Section</a>.
+1.  Go to the <a href="https://github.com/TarunKakani/flawlessTyper/releases/">Releases Section</a>.
 2.  Click on the .exe file to download it.
 3.  Run it by double clicking.
 
 ### macOS
-1.  Go to the <a href=https://github.com/TarunKakani/flawlessTyper/releases/">Releases Section</a>.
+1.  Go to the <a href="https://github.com/TarunKakani/flawlessTyper/releases/">Releases Section</a>.
 2.  Click on the .zip file to download it.
 3.  Unzip the downloaded file.
 4.  Drag the .app file to the Applications folder and run it from there
